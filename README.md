@@ -1,31 +1,31 @@
 
-> Open this page at [https://cuurle.github.io/6b-261120-bilfen/](https://cuurle.github.io/6b-261120-bilfen/)
+> Bu sayfayı [https://cuurle.github.io/6b-261120-bilfen/](https://cuurle.github.io/6b-261120-bilfen/) adlı linkten açınız.
 
-## Use as Extension
+## Eklenti Olarak Kullan
 
-This repository can be added as an **extension** in MakeCode.
+Bu kaynak **eklenti** olarak MakeCode'de kullanılabilir.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/cuurle/6b-261120-bilfen** and import
+* Siteye Girin : [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Şu tuşa tıklayın : **New Project**
+* Menüde : **Extensions** tuşuna gelişmiş ayarlar sekmesinde açın.
+* Şunu Girin : **https://github.com/cuurle/6b-261120-bilfen** ve importa basın.
 
-## Edit this project ![Build status badge](https://github.com/cuurle/6b-261120-bilfen/workflows/MakeCode/badge.svg)
+## Kaynağı Düzenle [Sürüm Durumu](https://github.com/cuurle/6b-261120-bilfen/workflows/MakeCode/badge.svg)
 
-To edit this repository in MakeCode.
+MakeCode'de bu kaynağı düzenleyin.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/cuurle/6b-261120-bilfen** and click import
+* Siteye Girin : [https://makecode.microbit.org/](https://makecode.microbit.org/)
+* Şu tuşa tıklayın : **Import** ardından **Import URL** 'ye tıklayın.
+* Şunu Girin : **https://github.com/cuurle/6b-261120-bilfen** ve importa tıklayın.
 
 ## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+Bu resim, ana bilgisayardaki son işlemedeki blok kodunu gösterir.
+Bu görüntünün yenilenmesi birkaç dakika sürebilir.
 
-![A rendered view of the blocks](https://github.com/cuurle/6b-261120-bilfen/raw/master/.github/makecode/blocks.png)
+![blokların renderli hali](https://github.com/cuurle/6b-261120-bilfen/raw/master/.github/makecode/blocks.png)
 
-#### Metadata (used for search, rendering)
+#### Metadata (arama ve renderlama)
 
-* for PXT/microbit
+* PXT/microbit için
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
